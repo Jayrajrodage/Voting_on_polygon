@@ -1,7 +1,7 @@
 # Voting_on_polygon
 
 # Description
-Dao is a smart contract-based platform that allows for decentralized decision-making and organization.Members can create proposals and vote on them to determine the direction of the organization.
+This is a smart contract-based platform that allows for decentralized decision-making and organization.Members can create proposals and vote on them to determine the direction of the organization.
 
 # Features
 
